@@ -6,3 +6,6 @@ const mainEl = document.querySelector('main');
 
 mainEl.style.backgroundColor = 'var(--main-bg)';
 
+// task 1.2 
+
+mainEl.innerHTML = '<h1>SEIR Rocks!</h1>'
