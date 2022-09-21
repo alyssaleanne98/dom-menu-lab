@@ -18,3 +18,6 @@ mainEl.classList.add("flex-ctrl");
 
 const topMenuEl = document.getElementById("top-menu");
 
+//task 2.1 
+
+topMenuEl.style.height = "100%";
